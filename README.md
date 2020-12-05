@@ -4,18 +4,18 @@
 [![Twitter Badge](https://img.shields.io/badge/-@matucerquetella-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/matucerquetella)](https://twitter.com/matucerquetella)
 [![Gmail Badge](https://img.shields.io/badge/-Mateo%20Cerquetella-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateocerquetella@gmail.com)](mailto:mateocerquetella@gmail.com)
 
-<p align="left">
-  I'm a Mateo, fullstack developer who code and break things. I consider myself motivated and curious. Interested in learning new tools that allow me to face new challenges.<br>
-  Always learning.<br>
-</p>
+<b>
+  I'm a Mateo, fullstack developer who code and break things. I consider myself motivated and curious. Interested in learning new tools that allow me to face new challenges and always learning.
+  </br>
+</b>
 <ul>
   <li> 🔭 I’m currently working on something cool :wink:</li>
   <li> ⚡ I’m currently learning React, React Native & Design Thinking (UX/UI)</li>
   <li> 💬 Ask me about anything related to Javascript/Typescript/Swift or Angular/SQL/Express/</li>
-  <li> 🌱 Fun fact: I have a orchard in my house and I am learning to automate with Arduino.</li>
+  <li> 🌱 Fun fact: I have an orchard in my house and I am learning to automate it with Arduino.</li>
 </ul>
 
-<h2 align="left">What tools I use?</h2>
+<h2>What tools I use?</h2>
 <p><a href="https://code.visualstudio.com">VSCode</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://insomnia.rest/download/">Insomnia Core</a>, <a href="https://tableplus.com">Table Plus</a>, <a href="https://www.figma.com">Figma</a>, <a href="https://developer.apple.com/xcode/">Xcode</a></p>
 
 <h2>Questions time!</h2>
@@ -28,14 +28,13 @@
 <p>I prefer iOS but Android isn't bad at all.</p>
 
 <h3>Preffered programming language?</h3>
-<p>JavaScript.</p>
+<p>JavaScript & TypeScript.</p>
 
 <h3>Preffered programming stack?</h3>
 <p>PEAN for large projects, MEAN for quick projects.</p>
 
 <h2>📊 This week I spent my time on</h2>
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=09c4add0-183b-49f8-8579-24bb63c92e74&hide_title=true&hide_border=true&langs_count=5&layout=compact)
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=09c4add0-183b-49f8-8579-24bb63c92e74&hide_title=true&hide_border=true&langs_count=5&layout=compact)
 
 
 <h2 align="left">📊 My overall stats</h2>
