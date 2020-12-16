@@ -26,10 +26,10 @@
 <h3>iOS or Android?</h3>
 <p>I prefer iOS but Android isn't bad at all.</p>
 
-<h3>Preffered programming language?</h3>
+<h3>Prefered programming language?</h3>
 <p>JavaScript & TypeScript.</p>
 
-<h3>Preffered programming stack?</h3>
+<h3>Prefered programming stack?</h3>
 <p>PEAN for large projects, MEAN for quick projects.</p>
 
 <h2>📊 This week I spent my time on</h2>
