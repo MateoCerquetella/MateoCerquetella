@@ -1,7 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Github Badge](https://img.shields.io/github/followers/mateocerquetella?label=Follow%20me%21&style=social)
+![Github Badge](https://img.shields.io/github/followers/mateocerquetella?label=Followers&style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Mateo%20Cerquetella-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateocerquetella/)](https://www.linkedin.com/in/mateocerquetella/)
-[![Gmail Badge](https://img.shields.io/badge/-Mateo%20Cerquetella-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateocerquetella@gmail.com)](mailto:mateocerquetella@gmail.com)
 
 <p>
   I'm Mateo, fullstack developer who code and break things. I consider myself motivated and curious. Always learning new tools that allow me to face new challenges and knowledge.
@@ -9,7 +8,7 @@
 </br>
 <ul>
   <li> 🔭 I’m currently working on something cool :wink:</li>
-  <li> ⚡ I’m currently learning React, React Native & Design Thinking (UX/UI)</li>
+  <li> ⚡ I’m currently learning Angular, TypeSciprt, Native Script & Design Thinking (UX/UI)</li>
   <li> 💬 Ask me about anything related to JavaScript/TypeScript/Swift or Angular/SQL/Express/</li>
   <li> 🌱 Fun fact: I have an orchard in my house and I am learning to automate it with Arduino.</li>
 </ul>
