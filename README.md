@@ -29,7 +29,7 @@
 <p>JavaScript & TypeScript.</p>
 
 <h3>Prefered programming stack?</h3>
-<p>PEAN for large projects, MEAN for quick projects.</p>
+<p>PEAN or MEAN</p>
 
 <h2>📊 This week I spent my time on</h2>
 <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=09c4add0-183b-49f8-8579-24bb63c92e74&hide_title=true&hide_border=true&langs_count=5&layout=compact" alt="Mateo Cerquetella's Stats" >
