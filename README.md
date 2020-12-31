@@ -3,12 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mateo%20Cerquetella-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateocerquetella/)](https://www.linkedin.com/in/mateocerquetella/)
 
 <p>
-  I'm Mateo, fullstack developer who code and break things. I consider myself motivated and curious. Always learning new tools that allow me to face new challenges and knowledge.
+  I'm Mateo, fullstack web developer who code and break things. I consider myself motivated and curious. Always learning new tools that allow me to face new challenges and knowledge.
 </p>
 </br>
 <ul>
   <li> 🔭 I’m currently working on something cool :wink:</li>
-  <li> ⚡ I’m currently learning Angular, TypeSciprt, Native Script & Design Thinking (UX/UI)</li>
+  <li> ⚡ I’m currently learning Angular, Redux Pattern, TypeScript, Native Script & Design Thinking (UX/UI)</li>
   <li> 💬 Ask me about anything related to JavaScript/TypeScript/Swift or Angular/SQL/Express/</li>
   <li> 🌱 Fun fact: I have an orchard in my house and I am learning to automate it with Arduino.</li>
 </ul>
@@ -27,9 +27,6 @@
 
 <h3>Prefered programming language?</h3>
 <p>JavaScript & TypeScript.</p>
-
-<h3>Prefered programming stack?</h3>
-<p>PEAN or MEAN</p>
 
 <h2>📊 This week I spent my time on</h2>
 <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=09c4add0-183b-49f8-8579-24bb63c92e74&hide_title=true&hide_border=true&langs_count=5&layout=compact" alt="Mateo Cerquetella's Stats" >
