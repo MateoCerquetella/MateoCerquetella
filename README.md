@@ -10,7 +10,6 @@
   <li> 🔭 I’m currently working on something cool :wink:</li>
   <li> ⚡ I’m currently learning Angular, Redux Pattern, TypeScript, Native Script & Design Thinking (UX/UI)</li>
   <li> 💬 Ask me about anything related to JavaScript/TypeScript/Swift or Angular/SQL/Express/</li>
-  <li> 🌱 Fun fact: I have an orchard in my house and I am learning to automate it with Arduino.</li>
 </ul>
 
 <h2>What tools I use?</h2>
