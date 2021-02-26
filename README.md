@@ -15,18 +15,6 @@
 <h2>What tools I use?</h2>
 <p><a href="https://code.visualstudio.com">VSCode</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://insomnia.rest/download/">Insomnia Core</a>, <a href="https://tableplus.com">Table Plus</a>, <a href="https://www.figma.com">Figma</a>, <a href="https://developer.apple.com/xcode/">Xcode</a></p>
 
-<h2>Questions time!</h2>
-
-<h3>Which browser do I use?</h3>
-<p><a href="https://www.apple.com/la/safari/">Safari </a><i>for personal usage</i></p>
-<p><a href="https://www.google.com/intl/es/chrome/">Google Chrome </a><i>for develop</i></p>
-
-<h3>iOS or Android?</h3>
-<p>I prefer iOS but Android isn't bad at all.</p>
-
-<h3>Prefered programming language?</h3>
-<p>JavaScript & TypeScript.</p>
-
 <h2>📊 This week I spent my time on</h2>
 <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=09c4add0-183b-49f8-8579-24bb63c92e74&hide_title=true&hide_border=true&langs_count=5&layout=compact" alt="Mateo Cerquetella's Stats" >
 
