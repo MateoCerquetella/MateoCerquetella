@@ -6,11 +6,6 @@
   I'm Mateo, fullstack web developer. I consider myself motivated and curious. Always learning new tools that allow me to face new challenges and knowledge.
 </p>
 </br>
-<ul>
-  <li> 🔭 I’m currently working on something cool :wink:</li>
-  <li> ⚡ I’m currently learning Angular, Redux Pattern, TypeScript, Native Script & Design Thinking (UX/UI)</li>
-  <li> 💬 Ask me about anything related to JavaScript/TypeScript/Swift or Angular/SQL/Express/</li>
-</ul>
 
 <h2>What tools I use?</h2>
 <p><a href="https://code.visualstudio.com">VSCode</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://insomnia.rest/download/">Insomnia Core</a>, <a href="https://tableplus.com">Table Plus</a>, <a href="https://www.figma.com">Figma</a>, <a href="https://developer.apple.com/xcode/">Xcode</a></p>
