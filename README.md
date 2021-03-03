@@ -5,7 +5,6 @@
 <p>
   I'm Mateo, fullstack web developer. I consider myself motivated and curious. Always learning new tools that allow me to face new challenges and knowledge.
 </p>
-</br>
 
 <h2>What tools I use?</h2>
 <p><a href="https://code.visualstudio.com">VSCode</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://insomnia.rest/download/">Insomnia Core</a>, <a href="https://tableplus.com">Table Plus</a>, <a href="https://www.figma.com">Figma</a>, <a href="https://developer.apple.com/xcode/">Xcode</a></p>
