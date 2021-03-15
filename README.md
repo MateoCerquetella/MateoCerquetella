@@ -14,6 +14,7 @@
 
 <h2 align="left">📊 My overall stats</h2>
   <a href="https://github.com/MateoCerquetella">
-    <img src="https://github-readme-stats.vercel.app/api?username=mateocerquetella&hide_border=true&langs_count=5&layout=compact&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&include_all_commits=true" alt="Mateo Cerquetella's Stats" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateocerquetella&theme=dark&background=0D1117" alt="Mateo Cerquetella's Commits" />
     <br>
   </a>
+ 
