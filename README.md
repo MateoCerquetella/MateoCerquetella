@@ -1,9 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![Github Badge](https://img.shields.io/github/followers/mateocerquetella?label=Followers&style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-Mateo%20Cerquetella-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateocerquetella/)](https://www.linkedin.com/in/mateocerquetella/)
 
 <p>
-  I'm Mateo, fullstack web developer. I consider myself motivated and curious. Always learning new tools that allow me to face new challenges and knowledge.
+  I have no idea what I'm doing.
 </p>
 
 <h2>🛠️ What tools I use?</h2>
