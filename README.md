@@ -6,6 +6,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateocerquetella&theme=dark&background=0D1117" alt="Mateo Cerquetella's Commits" />
   <br>
 </a>
-<h2>📊 This week I spent my time on</h2>
- <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=09c4add0-183b-49f8-8579-24bb63c92e74&hide_title=true&hide_border=true&langs_count=5&layout=compact&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117" alt="Mateo Cerquetella's Stats" >
- 
