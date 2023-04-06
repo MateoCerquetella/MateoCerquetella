@@ -8,12 +8,16 @@
 const MateoCerquetella = {
   experience: "4 years",
   languages: ["TypeScript", "JavaScript", "Swift", "C#", "C++"],
-  frameworks: ["Angular", "Express", "NativeScript", ".NET"],
+  frameworks: ["Angular", "React", "Express", "Svelte", "Astro", "Bun", "NativeScript", ".NET"],
   frontend: ["HTML", "SASS", "CSS", "Material", "Redux", "RXJS", "NGRX"],
   backend: ["NodeJS", "Kafka", "PrismaORM", "bcrypt", "JWT", "Passport"],
   databases: ["PostgreSQL", "MySQL", "SQLServer", "SQLite", "MongoDB", "Redis"],
   IDEs: ["VSCode", "Xcode"],
-  cloud: ["AWS", "Heroku", "Azure", "Vercel"]
+  cloud: ["AWS", "Heroku", "Azure", "Vercel"],
+  testing: ["Mocha", "Jasmine"],
+  devOps: ["Docker", "K8s", "Jenkins"],
+  infrastructure: ["Cloudify (Conductor)", "Terraform", "Helm Charts"],
+  architecture: ["Microservices Architecture"]
 }
 ```
 <h2>🔧 Tools I use</h2>
