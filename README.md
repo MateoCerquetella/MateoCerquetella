@@ -10,7 +10,7 @@ const MateoCerquetella = {
   languages: ["TypeScript", "JavaScript", "Python", "Swift", "C#", "C++"],
   frameworks: ["Angular", "React", "Express", "Svelte", "Astro", "Bun", "NativeScript", ".NET"],
   frontend: ["HTML", "SASS", "CSS", "Material", "Redux", "RXJS", "NGRX"],
-  backend: ["NodeJS", "Kafka", "DAPR", "PrismaORM", "bcrypt", "JWT", "Passport"],
+  backend: ["NodeJS", "Flask", "Kafka", "DAPR", "PrismaORM", "bcrypt", "JWT", "Passport"],
   databases: ["PostgreSQL", "MySQL", "SQLServer", "SQLite", "MongoDB", "Redis"],
   IDEs: ["VSCode", "Xcode"],
   cloud: ["AWS", "Heroku", "Azure", "Vercel"],
