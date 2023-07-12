@@ -10,14 +10,14 @@ const MateoCerquetella = {
   languages: ["TypeScript", "JavaScript", "Python", "Swift", "C#", "C++"],
   frameworks: ["Angular", "React", "Express", "Svelte", "Astro", "Bun", "NativeScript", ".NET"],
   frontend: ["HTML", "SASS", "CSS", "Material", "Redux", "RXJS", "NGRX"],
-  backend: ["NodeJS", "Flask", "Kafka", "DAPR", "PrismaORM", "bcrypt", "JWT", "Passport"],
+  backend: ["NodeJS", "Flask", "Kafka", "PrismaORM", "SQLAlchemy", "bcrypt", "JWT", "Passport"],
   databases: ["PostgreSQL", "MySQL", "SQLServer", "SQLite", "MongoDB", "Redis"],
   IDEs: ["VSCode", "Xcode"],
   cloud: ["AWS", "Heroku", "Azure", "Vercel"],
   testing: ["Mocha", "Jasmine"],
   devOps: ["Docker", "K8s", "Jenkins"],
   infrastructure: ["Cloudify (Conductor)", "Terraform", "Helm Charts"],
-  architecture: ["Microservices Architecture"]
+  architecture: ["Microservices Architecture", "DAPR"]
 }
 ```
 <h2>🔧 Tools I use</h2>
