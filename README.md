@@ -7,7 +7,7 @@
 ```Typescript
 const MateoCerquetella = {
   experience: "4 years",
-  languages: ["TypeScript", "JavaScript", "Swift", "C#", "C++"],
+  languages: ["TypeScript", "JavaScript", "Python", "Swift", "C#", "C++"],
   frameworks: ["Angular", "React", "Express", "Svelte", "Astro", "Bun", "NativeScript", ".NET"],
   frontend: ["HTML", "SASS", "CSS", "Material", "Redux", "RXJS", "NGRX"],
   backend: ["NodeJS", "Kafka", "DAPR", "PrismaORM", "bcrypt", "JWT", "Passport"],
