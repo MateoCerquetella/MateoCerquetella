@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Mateo Cerquetella</h1>
 <h3 align="center">
-Software Engineer · Systems Architect · Builder of Scalable Products<br/>
-Based in Argentina 🇦🇷
+Software Engineer · Systems Architect · Based in Argentina 🇦🇷<br/>
 </h3>
 <h2>📊 My overall stats</h2>
 <a href="https://github.com/MateoCerquetella">
