@@ -1,24 +1,66 @@
 <h1 align="center">Hi, I'm Mateo Cerquetella</h1>
-<h3 align="center">A passionate software engineer from Argentina</h3>
-
+<h3 align="center">
+Software Engineer · Systems Architect · Builder of Scalable Products<br/>
+Based in Argentina 🇦🇷
+</h3>
 
 <h2>🛠️ Tech Stack</h2>
 
 ```Typescript
 const MateoCerquetella = {
-  experience: "6 years",
-  languages: ["TypeScript", "JavaScript", "Python"],
-  frameworks: ["Angular", "React", "Express", "Svelte", "Astro", "Bun", "React Native"],
-  frontend: ["HTML", "SASS", "CSS", "Material", "Redux", "RXJS", "NGRX"],
-  backend: ["NodeJS", "Flask", "Kafka", "PrismaORM", "SQLAlchemy", "bcrypt", "JWT", "AWS", "Lambdas"],
-  databases: ["PostgreSQL", "MySQL", "SQLServer", "SQLite", "MongoDB", "Redis"],
-  IDEs: ["VSCode"],
-  cloud: ["AWS", "Vercel", "Railways"],
-  testing: ["Mocha", "Jasmine"],
-  devOps: ["Docker", "K8s", "Jenkins"],
-  infrastructure: ["Cloudify (Conductor)", "Terraform", "Helm Charts", "Serverless"],
-  architecture: ["Microservices Architecture", "DAPR"]
-}
+  experience: "7+ years",
+  focus: [
+    "Scalable architectures",
+    "Distributed systems",
+    "Product-oriented engineering",
+  ],
+
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+  ],
+
+  frontend: {
+    frameworks: [
+      "Angular",
+      "React",
+      "Svelte",
+      "Astro",
+      "React Native",
+    ],
+    state: ["Redux", "NgRx", "RxJS"],
+    styling: ["HTML", "CSS", "SASS", "Tailwind"],
+  },
+
+  backend: {
+    runtime: ["Node.js", "Bun"],
+    frameworks: ["Express", "Flask"],
+    patterns: ["Microservices", "Serverless"],
+    auth: ["JWT", "bcrypt"],
+    messaging: ["Kafka"],
+    orm: ["Prisma", "SQLAlchemy"],
+  },
+
+  databases: {
+    sql: ["PostgreSQL", "MySQL", "SQLite"],
+    nosql: ["MongoDB", "Redis"],
+  },
+
+  cloud: {
+    providers: ["AWS"],
+    services: ["Lambda", "Vercel", "Railway"],
+  },
+
+  devOps: [
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "Terraform",
+    "Helm",
+  ]
+};
+
 ```
 <h2>🔧 Tools I use</h2>
 <p><a href="https://code.visualstudio.com">VSCode</a>, <a href="https://coteditor.com/">CotEditor</a>, <a href="https://httpie.io">HTTPie</a>, <a href="https://tableplus.com">Table Plus</a>, <a href="https://www.figma.com">Figma</a></p>
